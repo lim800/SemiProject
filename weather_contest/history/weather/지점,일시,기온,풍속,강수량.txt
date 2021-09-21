@@ -1,2 +1,0 @@
-지점	일시	기온	풍속	강수량 
-loc	date	temp	wind	rain(mm)
