@@ -107,4 +107,4 @@ async def on_message(message):
         await ch.send("test")
 
 client.loop.create_task(my_background_task())
-client.run('OTMzMTg4NzY1NTM3NjY5MjIw.Yed5ww.zQtGQp38omhTa4iqEv6UFihnRi0')
+client.run('token')
