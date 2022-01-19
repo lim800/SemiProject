@@ -1,0 +1,17 @@
+Type: Communication Game in Discord
+
+Purpose of Game:
+Guess my character that is given by the Discord Bot randomly.
+
+How to Play:
+1. Discord Bot messages you a list of characters of other players except your character
+2. When your turn comes, you can ask one reasonable question to other players in order to guess your character
+3. When you answer your character correctly faster than other players, you win
+
+Commands:
+!help - show description and commands
+!join - add myself to the player list
+!out - remove myself from the player list
+!list - show the list of joined players
+!start - Bot messages all players the list of characters
+!end - clear the list of players
