@@ -1,3 +1,3 @@
 # SemiProject
 
-This repository is regarding self-projects or group-projects.
+This repository is about self-projects or group-projects.
